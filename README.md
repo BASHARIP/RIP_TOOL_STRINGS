@@ -1,0 +1,1 @@
+# RIP_TOOL_STRINGS
